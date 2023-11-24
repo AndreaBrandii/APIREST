@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: helados-app
-        image: livetrower/rest-api:v1
+        image: andreabrandi/apirest:v1
         ports:
         - containerPort: 80
         env:
