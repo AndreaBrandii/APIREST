@@ -4,7 +4,7 @@ metadata:
   name: helados-ingress
 spec:
   rules:
-  - host: api.agrimaldo.com
+  - host: api.acamarillo.com
     http:
       paths:
       - path: /
