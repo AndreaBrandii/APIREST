@@ -25,4 +25,4 @@ spec:
                   name: fastapi-secrets
                   key: db_root_password
            - name: db_name
-             value: helados_db
+             value: helados
